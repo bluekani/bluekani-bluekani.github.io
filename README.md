@@ -1,1 +1,1 @@
-# bluekani-bluekani.github.io
+# bluekani.github.io

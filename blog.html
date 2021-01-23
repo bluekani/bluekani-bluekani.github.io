@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: かにピログ
 permalink: /blog/
 ---
@@ -13,7 +13,7 @@ permalink: /blog/
       <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
       <p class="post-date">{{ post.date | date_to_long_string }}</p>
       <p>
-        {{ post.content | strip_html | truncatewords: 50 }}
+        {{ post.content | strip_html | truncatewords: 10 }}
       </p>
     </div>
   </div>

@@ -151,10 +151,11 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block p {
   color: #7B7B7B;
-  padding-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 20px;
 }
 #intro .block img {
-  padding-left: 40px;
+  /* padding-left: 40px; */
   width: 100%;
 }
 #intro .section-title {
@@ -384,7 +385,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
+  /* padding-left: 90px; */
   text-align: center;
 }
 #global-header .block h1 {
@@ -632,7 +633,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider-contact .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
+  /* padding-left: 90px; */
 }
 #slider-contact .block h1 {
   font-family: 'Roboto', sans-serif;

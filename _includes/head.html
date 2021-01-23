@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>
-  {% if page.url == '/' %}{{site.title}}{% else %}{% if page.title == '' || page.title == nil %}（無題）{% else %}{{page.title}}{% endif %}｜{{site.title}}{% endif %}
+  {% if page.url == '/' %}{{site.title}}{% else %}{% if page.title == '' || page.title == nil %}（無題）{% else %}{{page.title}}{% endif %}{% if page.layout == 'post' %}｜かにピログ{% else %}｜{{site.title}}{% endif %}{% endif %}
 </title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">

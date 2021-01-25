@@ -17,11 +17,13 @@
  }
 
 .post-area {
-  padding: 40px;
+  padding: 20px;
   width: 100%;
   min-height: 150px;
   background-color: white;
-  border-bottom: 1px dotted #ddd;
+  /* border-bottom: 1px dotted #ddd; */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .post-area a:link, .post-area a:visited {
@@ -31,4 +33,24 @@
 
 .post-area a:hover {
   color: #0D0017;
+}
+
+.post {
+  padding: 20px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  /* border-bottom: 1px dotted #ddd; */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.page {
+  padding: 20px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  /* border-bottom: 1px dotted #ddd; */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }

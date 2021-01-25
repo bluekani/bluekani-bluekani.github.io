@@ -8,7 +8,7 @@ permalink: /blog/
 
 {% for post in site.posts %}
 <div class="container">
-  <div class="col-md-12">
+  <div class="col-md-10 col-md-offset-1">
     <div class="post-area">
       <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
       <p class="post-date">{{ post.date | date_to_long_string }}</p>

@@ -4,6 +4,7 @@
 
     {% include head.html %}
 
+    {% if jekyll.environment == 'production' %}{% include analytics.html %}{% endif %}
   </head>
   <body>
 

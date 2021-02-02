@@ -10,7 +10,7 @@ author: "カニぱん"
 
 ## 環境
 VirtualDJ 8  
-VDJSpoutSender64.dll→[https://github.com/leadedge/SpoutVDJ/releases/](https://github.com/leadedge/SpoutVDJ/releases/)  
+VDJSpoutSender64.dll→<https://github.com/leadedge/SpoutVDJ/releases/>{:target="_blank"}  
 Windows10  
 core i7-6700HQ,GTX 965MなノートPC
 
@@ -24,7 +24,7 @@ VirtualDJのオプションから，**performance > mathEngine**
 Spoutのプラグイン(エフェクト)を中央のマスターデッキで有効にした場合，Spoutの出力サイズはVideoウィンドウのサイズになる．  
 
 そのため，他のソフトを経由して映像出すからVideoウィンドウが邪魔！！！！となる場合，  
-HDMIダミープラグ[こういうやつです](https://www.amazon.co.jp/s?k=HDMI+%E3%83%80%E3%83%9F%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0)を使うと幸せになれる．  
+HDMIダミープラグ[**(こういうやつです)**](https://www.amazon.co.jp/s?k=HDMI+%E3%83%80%E3%83%9F%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B0){:target="_blank"}を使うと幸せになれる．  
 それぞれのデッキで有効にしたSpoutSenderからは，動画ファイルと同じ解像度の映像が出力される．
 
 ググっても同様の現象が出てこなくて困ったので(探し方が悪いだけかもしれない)，このような記事を書いた．  

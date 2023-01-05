@@ -7,8 +7,8 @@ permalink: /twitter/
 
 ## 簡単な自己紹介
 カニぱん(KANIPan)という者です。  
-↑が正式な表記です。かにぱんとかカニパンではない 
-最近は関東圏やVRChatでVJをしています。
+↑が正式な表記です。かにぱんとかカニパンではない  
+最近は関東圏やVRChatでVJをしています。  
 
 ## リンク
 Twitter(メイン・趣味):[https://twitter.com/_KNPi](https://twitter.com/_KNPi)  
@@ -31,7 +31,7 @@ DJをたま～にやったりやらなかったり(機材：DDJ-SX2, XDJ-700, �
 **2022年美少女ゲームソングVJ始動**，現場やVRChatでのイベント出演や参加を通して幅広い音楽に触れています。  
 
 ## VJ
-2021年末頃から活動を始めました。
+2021年末頃から活動を始めました。  
 美少女ゲームソング，クラブミュージックの2ジャンルのVJをしています。  
 Remix等でバキバキにエフェクトを掛けるプレイスタイルです。  
 出演オファーはTwitterのDMからお気軽にお願いします。  
@@ -42,7 +42,7 @@ Remix等でバキバキにエフェクトを掛けるプレイスタイルです
 TouchDesignerやC,Python等を使用したツールの開発も独自に行なっています。  
 映像そのものだけでなくVJシステムに強い関心があります。  
 
-使用機材
+使用機材  
 VirtualDJ，Resolume，自作ユーティリティソフト  
 AKAI APC 40 mk2，AKAI APC mini  
 TRAKTOR Kontrol X1 MK2，TRAKTOR Kontrol F1  
@@ -60,7 +60,7 @@ LIVEPRO L1
 2022/12/03 [エロゲソングわーくす！Vol.7](https://twipla.jp/events/531901) (美少女ゲームソング) @大阪 Bar Guild 6F  
 2022/12/11 [Crossover -section03-](https://twipla.jp/events/491393) (美少女ゲームソング) @浅草Stella  
 
-VRChat
+VRChat  
 2022/05/01 [#GZ_VDJ スペシャル・エディション](https://twitter.com/hashtag/GZ_VDJ)  
 2022/05/13 [第9回 VRChat上でエロゲソングDJをやる会](https://twitter.com/hashtag/VRC%E3%82%A8%E3%83%AD%E3%82%B2DJ%E4%BC%9A)  
 2022/08/12 [第12回 VRChat上でエロゲソングDJをやる会](https://twitter.com/hashtag/VRC%E3%82%A8%E3%83%AD%E3%82%B2DJ%E4%BC%9A)  
@@ -76,15 +76,15 @@ VJを始めてからはゲーミングノートPCやMidiコントローラーを
 VRChatID：カニぱん  
 単眼娘の可愛さを広める活動をしております。   
 DJイベントによく遊びに行ったりたまにVJをします。  
-機材:Oculus Quest 2, RTX3060 Desktop
+機材:Oculus Quest 2, RTX3060 Desktop  
 
 単眼アバター情報まとめ  
-https://scrapbox.io/KaniPan/  VRChat%E3%81%AE%E5%8D%98%E7%9C%BC%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%9F%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%A8%E3%81%8B%E6%89%80%E6%84%9F  
+[VRChatの単眼アバターを作るにあたって参考にしたページとか所感](https://scrapbox.io/KaniPan/VRChat%E3%81%AE%E5%8D%98%E7%9C%BC%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%AB%E3%81%82%E3%81%9F%E3%81%A3%E3%81%A6%E5%8F%82%E8%80%83%E3%81%AB%E3%81%97%E3%81%9F%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%A8%E3%81%8B%E6%89%80%E6%84%9F)  
 単眼アバター集会の開催  
-https://twitter.com/hashtag/VRC%E5%8D%98%E7%9C%BC%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E9%9B%86%E4%BC%9A  
+[#VRC単眼アバター集会](https://twitter.com/hashtag/VRC%E5%8D%98%E7%9C%BC%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E9%9B%86%E4%BC%9A)  
 
 [MMVC](https://github.com/isletennos/MMVC_Trainer)(AIを使用したボイスチェンジャーソフトウェア)の支援ソフトの開発  
-https://github.com/bluekani/MMVC_Client-Config-Generator  
+[https://github.com/bluekani/MMVC_Client-Config-Generator]  
 
 [SlimeVR](https://docs.slimevr.dev/)(オープンソースのVRトラッカー)へのコミット  
 

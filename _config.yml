@@ -14,8 +14,8 @@ keep_files:
 
 
 # Site settings
-title: Brighter than dawning blue
-subtitle: "Yoakemae Yori Ruriiro Na Fan Site"
+title: Lapis Lazuli Laboratory
+subtitle: "Portfolio Website"
 url: "https://www.brighter-than-dawning.blue" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""

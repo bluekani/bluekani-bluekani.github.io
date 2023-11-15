@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Brighter than dawning blue
+title: Lapis Lazuli Laboratory
 permalink: /
 ---
 
 <!-- Slider Start -->
-<section id="slider">
+<section id="slider" class="jumbotron">
   <div class="container">
     <div class="row">
       <div class="col-md-14">
         <div class="block">
-          <h1 class="animated fadeInUp">Brighter than dawning blue</h1>
+          <h1 class="animated fadeInUp">VJ / ERG / VR / Monoeye</h1>
           <p class="animated fadeInUp">
             Clouds and thick darkness surround him; righteousness and justice are the foundation of his throne.<br>
             A fire goeth before him, and burneth up his enemies round about.His lightnings enlightened the world: the earth saw, and trembled.<br>
@@ -22,42 +22,51 @@ permalink: /
   </div>
 </section>
 
+
 <section id="intro">
   <div class="container">
-  <div class="col-md-12">
-    <div class="block">
-      <h1 class="animated fadeInUp">このサイトは何</h1>
-      <p class="animated fadeInUp">衝動買いしたドメインを活用するために作ったサイトです。</p>
+    <div class="col-md-12">
+      <div class="block">
+        <h1 class="animated fadeInUp">Lapis Lazuli Laboratory</h1>
+        <p class="animated fadeInUp">VJ KANI-Panが主宰する個人サークルです。</p>
+      </div>
     </div>
   </div>
-  </div>
-</section>
-<!-- Wrapper Start -->
-<section id="intro">
-<div class="container">
-<div class="row">
-<div class="col-md-7 col-sm-12">
-  <div class="block">
-    <div class="section-title">
-      <h2>夜明け前より瑠璃色な コンプリートパック</h2>
-      <p><br>15周年＆コンプリートパック発売おめでとうございます<br>全人類買ってね</p>
+
+  <div class="container">
+    <div class="col-md-12">
+      <div class="block">
+        <h1 class="animated fadeInUp">Profile</h1>
+        <p class="animated fadeInUp">
+          {% capture markdown_content %}{% include main_profile.md %}{% endcapture %}
+          {{ markdown_content | markdownify }}
+        </p>
+      </div>
     </div>
-    <p>
-      ”2020年9月に15周年を迎える『夜明け前より瑠璃色な』より、<br>
-      シリーズ3作および各サントラがまとめて楽しめるコンプリートパックを発売いたします。<br>
-      いずれもWindows10環境へ初の対応となります。<br>
-      ※収録内容はすべて旧作と同一（最新パッチ適用済）です。新規要素はございません。”<br>
-      <a href="https://august-soft.com/yoake_cp/" target="_blank" rel="noopener">『夜明け前より瑠璃色な コンプリートパック』公式サイト</a>
-    </p>
   </div>
-</div><!-- .col-md-7 close -->
-<div class="col-md-5 col-sm-12">
-  <div class="block">
-    <a href="https://august-soft.com/yoake_cp/" target="_blank" rel="noopener">
-    <img src="img/yoakena_cp.jpg" alt="Img">
-    </a>
+
+  <div class="container">
+    <div class="col-md-12">
+      <div class="block">
+        <h1 class="animated fadeInUp">主な出演履歴</h1>
+        <p class="animated fadeInUp">
+            {% capture markdown_content %}{% include main_works.md %}{% endcapture %}
+            {{ markdown_content | markdownify }}
+        </p>
+      </div>
+    </div>
   </div>
-</div><!-- .col-md-5 close -->
-</div>
-</div>
+
+  <div class="container">
+    <div class="col-md-12">
+      <div class="block">
+        <h1 class="animated fadeInUp">Offer / Contact</h1>
+        <p class="animated fadeInUp">
+          {% capture markdown_content %}{% include main_contact.md %}{% endcapture %}
+          {{ markdown_content | markdownify }}
+        </p>
+      </div>
+    </div>
+  </div>
+
 </section>

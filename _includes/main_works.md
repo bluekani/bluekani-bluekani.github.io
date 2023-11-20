@@ -1,3 +1,4 @@
+{: .animated .fadeInUp}
 2022/06/26 [TOKYO ERG SUMMIT 9周年](https://t.livepocket.jp/e/osfrq) (美少女ゲームソング) @渋谷 WOMB LOUNGE  
 2022/09/04 [#OOOTO](http://oooto.otherman-records.com/) @中野 heavysick ZERO  
 2022/11/05 [TOKYO ERG SUMMIT VOL.44](https://t.livepocket.jp/e/tes_44) (美少女ゲームソング) @渋谷 WOMB LOUNGE  

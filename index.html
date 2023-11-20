@@ -12,9 +12,7 @@ permalink: /
         <div class="block">
           <h1 class="animated fadeInUp">VJ / ERG / VR / Monoeye</h1>
           <p class="animated fadeInUp">
-            Clouds and thick darkness surround him; righteousness and justice are the foundation of his throne.<br>
-            A fire goeth before him, and burneth up his enemies round about.His lightnings enlightened the world: the earth saw, and trembled.<br>
-            The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.
+            "Thousands of distant and ancient stories, wrapped in azure, lie dormant."
           </p>
         </div>
       </div>
@@ -37,10 +35,8 @@ permalink: /
     <div class="col-md-12">
       <div class="block">
         <h1 class="animated fadeInUp">Profile</h1>
-        <p class="animated fadeInUp">
-          {% capture markdown_content %}{% include main_profile.md %}{% endcapture %}
-          {{ markdown_content | markdownify }}
-        </p>
+        {% capture markdown_content %}{% include main_profile.md %}{% endcapture %}
+        {{ markdown_content | markdownify }}
       </div>
     </div>
   </div>
@@ -49,10 +45,8 @@ permalink: /
     <div class="col-md-12">
       <div class="block">
         <h1 class="animated fadeInUp">主な出演履歴</h1>
-        <p class="animated fadeInUp">
-            {% capture markdown_content %}{% include main_works.md %}{% endcapture %}
-            {{ markdown_content | markdownify }}
-        </p>
+          {% capture markdown_content %}{% include main_works.md %}{% endcapture %}
+          {{ markdown_content | markdownify }}
       </div>
     </div>
   </div>
@@ -61,10 +55,8 @@ permalink: /
     <div class="col-md-12">
       <div class="block">
         <h1 class="animated fadeInUp">Offer / Contact</h1>
-        <p class="animated fadeInUp">
-          {% capture markdown_content %}{% include main_contact.md %}{% endcapture %}
-          {{ markdown_content | markdownify }}
-        </p>
+        {% capture markdown_content %}{% include main_contact.md %}{% endcapture %}
+        {{ markdown_content | markdownify }}
       </div>
     </div>
   </div>

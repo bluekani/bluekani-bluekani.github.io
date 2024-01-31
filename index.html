@@ -44,6 +44,16 @@ permalink: /
   <div class="container">
     <div class="col-md-12">
       <div class="block">
+        <h1 class="animated fadeInUp">Style</h1>
+        {% capture markdown_content %}{% include main_style.md %}{% endcapture %}
+        {{ markdown_content | markdownify }}
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="col-md-12">
+      <div class="block">
         <h1 class="animated fadeInUp">主な出演履歴</h1>
           {% capture markdown_content %}{% include main_works.md %}{% endcapture %}
           {{ markdown_content | markdownify }}

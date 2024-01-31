@@ -9,3 +9,5 @@
 2023/08/26 [大音2 #OOOTO](http://oooto.otherman-records.com/2/) @中野 heavysick ZERO  
 2023/10/14 [FLAG’S Vol.20](https://club-mogra.jp/2023/10/14/5034/) (美少女ゲームソング) @秋葉原MOGRA  
 2023/11/19 [solfa New Project Starting Event "Dream Moment"](https://circus-tokyo.jp/event/solfa-new-project-starting-event-dream-moment-%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/) (美少女ゲームソング 公式ライブイベント) @渋谷 CIRCUS Tokyo  
+2023/12/29 [電気外祭り2023冬 MUSIC PARTY](https://twitter.com/denki_guy/status/1739160762139250823/photo/1) (美少女ゲームソング) @東京流通センター  
+2024/12/29 [BEｰÚltimo 4章 ave;new feat. 佐倉紗織](https://twitter.com/BEUltimo_info/status/1728005554403185036) (美少女ゲームソング) @名古屋 Club JB's  

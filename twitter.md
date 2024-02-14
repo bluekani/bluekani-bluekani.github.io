@@ -51,14 +51,12 @@ LIVEPRO L1
 ### 出演履歴
 2022/01/28 [ERG Night #49](https://twipla.jp/events/502631) (美少女ゲームソング) @川崎 月あかり夢てらす  
 2022/03/25 [ERG Night #50](https://twipla.jp/events/507622) (美少女ゲームソング) @川崎 月あかり夢てらす  
-2022/04/10 [Crossover -section01-](https://twipla.jp/events/491151) (美少女ゲームソング) @浅草Stella  
 2022/06/26 [TOKYO ERG SUMMIT 9周年](https://t.livepocket.jp/e/osfrq) (美少女ゲームソング) @渋谷 WOMB LOUNGE  
 2022/09/04 [#OOOTO](http://oooto.otherman-records.com/) @中野 heavysick ZERO  
 2022/11/05 [TOKYO ERG SUMMIT VOL.44](https://t.livepocket.jp/e/tes_44) (美少女ゲームソング) @渋谷 WOMB LOUNGE  
 2022/11/12 [うぉっちあうと！](https://twipla.jp/events/527123) (美少女ゲームソング) @千葉 らんぶる@time  
 2022/11/19 [fledglings fresh cheer! (フレチア)](https://twipla.jp/events/527966) @阿佐ヶ谷DRIFT  
 2022/12/03 [エロゲソングわーくす！Vol.7](https://twipla.jp/events/531901) (美少女ゲームソング) @大阪 Bar Guild 6F  
-2022/12/11 [Crossover -section03-](https://twipla.jp/events/491393) (美少女ゲームソング) @浅草Stella  
 
 VRChat  
 2022/05/01 [#GZ_VDJ スペシャル・エディション](https://twitter.com/hashtag/GZ_VDJ)  
